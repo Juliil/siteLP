@@ -112,8 +112,3 @@
     }
   }
 })();
-
-function showDiv() {
-  div = document.getElementById('ale');
-  div.style.display = "block";
-}
